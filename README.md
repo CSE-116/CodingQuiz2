@@ -1,5 +1,5 @@
 # Coding Quiz 2
 
-For this quiz, all classes have been provided. You will not need to create any new classes.
+For this quiz, you are provided the Animal class.
 
-Once you've cloned the repo, write your code in the provided Tree class. You should use the provided BinaryTreeNode class in your implementation.
+Once you've cloned the repo, create your additional classes in the quiz package.
